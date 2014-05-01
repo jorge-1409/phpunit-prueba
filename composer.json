@@ -1,0 +1,17 @@
+{
+    "name": "jorge-1409/phpunit",
+    "description": "Primer test unitario utilizando phpunit",
+    "autoload": {
+        "psr-0": {"": "src/"}
+    },
+    "authors": [
+        {
+            "name": "Jorge Villada",
+            "email": "jorge-1409@hotmail.com"
+        }
+    ],
+    "require": {
+
+    }
+    
+}
